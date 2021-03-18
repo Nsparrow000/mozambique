@@ -1,0 +1,62 @@
+#========================================================================
+#セットしたUIをこのテキストファイルに書き出します
+#読み込むテキストファイルにコピペするなりして下さい
+#========================================================================
+
+
+UISET
+	TYPE = 0
+	POS = 540.0 360.0 0.0
+	WIDTH = 100.0
+	HEIGTH = 50.0
+END_UISET
+
+UISET
+	TYPE = 0
+	POS = 410.0 410.0 0.0
+	WIDTH = 100.0
+	HEIGTH = 50.0
+END_UISET
+
+UISET
+	TYPE = 0
+	POS = 410.0 580.0 0.0
+	WIDTH = 100.0
+	HEIGTH = 50.0
+END_UISET
+
+UISET
+	TYPE = 0
+	POS = 530.0 540.0 0.0
+	WIDTH = 100.0
+	HEIGTH = 50.0
+END_UISET
+
+UISET
+	TYPE = 0
+	POS = 600.0 460.0 0.0
+	WIDTH = 100.0
+	HEIGTH = 50.0
+END_UISET
+
+UISET
+	TYPE = 0
+	POS = 670.0 390.0 0.0
+	WIDTH = 100.0
+	HEIGTH = 50.0
+END_UISET
+
+UISET
+	TYPE = 2
+	POS = 820.0 340.0 0.0
+	WIDTH = 100.0
+	HEIGTH = 50.0
+END_UISET
+
+UISET
+	TYPE = 1
+	POS = 700.0 190.0 0.0
+	WIDTH = 100.0
+	HEIGTH = 50.0
+END_UISET
+
