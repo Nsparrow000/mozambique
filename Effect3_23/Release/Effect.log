@@ -1,0 +1,18 @@
+﻿  Effect.cpp
+Effect.cpp(191): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+Effect.cpp(203): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+Effect.cpp(212): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+Effect.cpp(232): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+Effect.cpp(259): warning C4553: '==': 演算子にプログラム上の作用がありません。'=' を意図しましたか?
+Effect.cpp(474): warning C4244: '=': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+Effect.cpp(475): warning C4244: '=': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+Effect.cpp(476): warning C4244: '=': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+Effect.cpp(477): warning C4244: '=': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+Effect.cpp(510): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  3 of 60 functions ( 5.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  Effect.vcxproj -> C:\Users\student\Desktop\Visual Studio 2015\Projects\ツール\Effect\Release\Effect.exe
+  Effect.vcxproj -> C:\Users\student\Desktop\Visual Studio 2015\Projects\ツール\Effect\Release\Effect.pdb (Full PDB)

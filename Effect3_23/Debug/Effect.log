@@ -1,0 +1,13 @@
+﻿  Effect.cpp
+c:\users\student\desktop\visual studio 2015\projects\ツール\effect\effect.cpp(191): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\visual studio 2015\projects\ツール\effect\effect.cpp(203): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\visual studio 2015\projects\ツール\effect\effect.cpp(212): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\visual studio 2015\projects\ツール\effect\effect.cpp(232): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+c:\users\student\desktop\visual studio 2015\projects\ツール\effect\effect.cpp(259): warning C4553: '==': 演算子にプログラム上の作用がありません。'=' を意図しましたか?
+c:\users\student\desktop\visual studio 2015\projects\ツール\effect\effect.cpp(474): warning C4244: '=': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\visual studio 2015\projects\ツール\effect\effect.cpp(475): warning C4244: '=': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\visual studio 2015\projects\ツール\effect\effect.cpp(476): warning C4244: '=': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\visual studio 2015\projects\ツール\effect\effect.cpp(477): warning C4244: '=': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\visual studio 2015\projects\ツール\effect\effect.cpp(510): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Effect.vcxproj -> C:\Users\student\Desktop\Visual Studio 2015\Projects\ツール\Effect\Debug\Effect.exe
+  Effect.vcxproj -> C:\Users\student\Desktop\Visual Studio 2015\Projects\ツール\Effect\Debug\Effect.pdb (Full PDB)
